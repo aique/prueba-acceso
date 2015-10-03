@@ -1,0 +1,29 @@
+{
+  "affiliates":
+  [
+    {
+      "name": "babosas",
+      "web": "babosas.com",
+      "nats_webcams": "MjYwNS4xLjI1LjQzLjAuMC4wLjAuMA",
+      "nats_cumlouder": "MjYwNS4xLjIuMi4wLjAuMC4wLjA",
+      "css_route": "babosas",
+      "google_analytics": "UA-26020144-23"
+    },
+    {
+      "name": "cerdas",
+      "web": "cerdas.com",
+      "nats_webcams": "MjYwNS4xLjI1LjQzLjAuMC4wLjAuMA",
+      "nats_cumlouder": "MjYwNS4xLjIuMi4wLjAuMC4wLjA",
+      "css_route": "cerdas.com",
+      "google_analytics": "UA-26020144-23"
+    },
+    {
+      "name": "conejox",
+      "web": "conejox.com",
+      "nats_webcams": "MjYwNS4xLjI1LjQzLjAuMC4wLjAuMA",
+      "nats_cumlouder": "MjYwNS4xLjIuMi4wLjAuMC4wLjA",
+      "css_route": "conejox.com",
+      "google_analytics": "UA-26020144-23"
+    }
+  ]
+}
